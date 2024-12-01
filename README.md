@@ -5,11 +5,7 @@
 mkdir -p ~/.config/nvim
 cp -r .config/nvim/init.vim ~/.config/nvim/
 
-cp -r .zshrc ~
-
-cp -r .bash_profile ~
-
-cp -r .gitconfig ~
+cp .zshrc .bash_profile .gitconfig ~
 ```
 
 ## Iterm2
